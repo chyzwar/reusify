@@ -16,7 +16,8 @@
     "test:typescript"
   ],
   "files": [
-    "reusify.js"
+    "reusify.js",
+    "reusify.d.ts"
   ],
   "repository": {
     "type": "git",
